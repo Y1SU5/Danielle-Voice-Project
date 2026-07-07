@@ -50,7 +50,7 @@ También creé un ‘Arranque Automático en Segundo Plano’ para que el servid
 -----
 
 ## Uso
-Dar doble clic en  el (El lanzador) el que configuré y explique anteriormente y con eso ya se podria hacer uso de Danielle mediante telegram o la aplicación web de telegram.
+Haz doble clic en el lanzador de Danielle para iniciar el asistente. Cuando esté en ejecución, podrás comunicarte con él a través de Telegram, ya sea desde la aplicación móvil, la versión de escritorio o Telegram Web.
 
 -----
 
