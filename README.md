@@ -73,7 +73,7 @@ Haz doble clic en el lanzador de Danielle para iniciar el asistente. Cuando est�
 
 ## Autor
 
-Desarrollado por Jesús Gustavo.
+Desarrollado por yisus.
 
 ## Aportaciones finales:
 Danielle no es solo un proyecto de programación. Es un proyecto de aprendizaje continuo, diseñado para evolucionar con cada nueva tecnología, cada línea de código y cada reto superado. El objetivo no es únicamente construir un asistente inteligente, sino crecer como desarrollador durante todo el proceso.
